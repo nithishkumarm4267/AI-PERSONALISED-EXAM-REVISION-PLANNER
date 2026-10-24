@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+frontend/node_modules/
+frontend/dist/
+frontend/.npm-cache/
+frontend/.pnpm-cache/
+.pnpm-store/
+*.log
+study_plan*.txt
+Readme.md.txt
